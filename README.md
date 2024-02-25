@@ -1,10 +1,9 @@
 # Final Result
+[Preview](https://katsukibakugo.netlify.app/)
 
 ![Final Result](./imgs/final.png)
 
 # HTML and CSS Documentation
-
-[Preview](https://katsukibakugo.netlify.app/)
 
 ## Introduction
 
