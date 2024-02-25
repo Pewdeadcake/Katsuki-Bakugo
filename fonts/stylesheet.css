@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Kuunari';
+    src: url('Kuunari-Bold.eot');
+    src: url('Kuunari-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Kuunari-Bold.woff2') format('woff2'),
+        url('Kuunari-Bold.woff') format('woff'),
+        url('Kuunari-Bold.ttf') format('truetype'),
+        url('Kuunari-Bold.svg#Kuunari-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
