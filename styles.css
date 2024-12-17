@@ -70,6 +70,9 @@ ul {
 
 .title-box h1 {
   font-size: 12rem;
+.title-box h2 {
+  font-size: 12rem;
+ align-items: center;
 }
 
 #jpn-name {
